@@ -1,0 +1,8 @@
+{
+  "name": "DigiShift — SME Digital Transformation Advisor",
+  "description": "Comprehensive assessment tool for small and medium enterprises to score digital maturity across 5 pillars, rank operational bottlenecks, and generate phased technology adoption roadmaps with ROI projections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
